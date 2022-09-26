@@ -26,7 +26,10 @@ let computerChoice = ['Rock', 'Paper', 'Scissors']
 // human draws - getResult('Rock', 'Rock') 👉 0
 const getResult = (playerChoice, computerChoice) => {
   // return the result of score based on if you won, drew, or lost
-  if
+  let score
+  if(playerChoice = 1){
+    
+  }
   
 
   // All situations where human draws, set `score` to 0
